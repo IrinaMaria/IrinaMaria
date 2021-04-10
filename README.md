@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate on anything that involves using Python to create solutions for finance.   
 
 - 📫 Feel free to connect and reach out:
-<html><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="irinamariamocan"><a class="LI-simple-link" href='https://uk.linkedin.com/in/irinamariamocan?trk=profile-badge'>Irina Maria Mocan</a></div></html>
+* [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/irinamariamocan)
 
 
 <h3 align="left">System:</h3>
