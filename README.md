@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on anything that involves using Python to create solutions for finance.   
 
-- 📫 Feel free to connect and reach out: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/irinamariamocan)
+- 📫 Feel free to connect and reach out:  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/irinamariamocan)
 
 
 <h3 align="left">System:</h3>
