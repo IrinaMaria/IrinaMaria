@@ -24,6 +24,7 @@
     <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Stats:</h3>
 
 ![counter](https://ennr0orc4sd53jn.m.pipedream.net)
 
