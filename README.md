@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate on anything that involves using Python to create solutions for finance.   
 
 - 💬 Ask me about: 
-          - How to get started with Python for finance. 
-          - Investing in listed and unlisted companies. 
-          - Accounting and Finance. 
+           How to get started with Python for finance. 
+           Investing in listed and unlisted companies. 
+           Accounting and Finance. 
 
 - 📫 Feel free to connect and reach out:  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/irinamariamocan)
 
@@ -38,9 +38,6 @@
 **IrinaMaria/IrinaMaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
