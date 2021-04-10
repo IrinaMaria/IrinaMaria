@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on using Postgres SQL ad Python in building a diverse portfolio of stock market and cryptocurrencies.   
+- 🔭 I’m currently working on using Postgres SQL and Python in building a diverse portfolio of stock market and cryptocurrencies.   
 
 - 🌱 I’m currently learning about how to use Python to buil various algorithmic trading strategies.  
 
