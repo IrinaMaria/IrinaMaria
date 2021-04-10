@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on using Postgres SQL and Python in building a diverse assets portfolio of stock and cryptocurrencies.   
 
-- 🌱 I’m currently learning about how to use Python to buil various algorithmic trading strategies.  
+- 🌱 I’m currently learning about how to use Python to build various algorithmic trading strategies.  
 
 - 👯 I’m looking to collaborate on anything that involves using Python to create solutions for finance.   
 
