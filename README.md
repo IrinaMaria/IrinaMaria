@@ -16,7 +16,7 @@
 
 <h3 align="left">System:</h3>
 <p align="left"> 
-    <a href="https://www.microsoft.com/en-us/windows/get-windows-10" target="_blank"> <img src="icons/windows.jpg" width="90" height="60"/> </a>
+    <a href="https://www.microsoft.com/en-us/windows/get-windows-10" target="_blank"> <img src="icons/windows.jpg" width="110" height="60"/> </a>
 </p>
 
 <h3 align="left">Languages:</h3>
