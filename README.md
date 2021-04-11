@@ -25,6 +25,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://anaconda.org/" target="_blank"> <img src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png" alt="Anaconda" width="40" height="40"/> </a> 
     <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> 
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="icons/pycharm.png" alt="Jupyter Notebook" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Stats:</h3>
