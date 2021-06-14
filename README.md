@@ -22,6 +22,14 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://en.wikipedia.org/wiki/SQL#:~:text=listen)%20S%2DQ%2DL%2C%20%2F%CB%88s,stream%20management%20system%20(RDSMS)." target="_blank"> <img src="icons/SQL.jpg" alt="SQL" width="40" height="40"/> </a> 
+           
+           
+</p>
+
+<h3 align="left">Python packages:</h3>
+<p align="left"> 
+    <a href="https://numpy.org/" target="_blank"> <img src="icons/nympy.png" alt="NumPy" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Tools:</h3>
