@@ -29,7 +29,7 @@
 
 <h3 align="left">Python packages:</h3>
 <p align="left"> 
-    <a href="https://numpy.org/" target="_blank"> <img src="icons/numpy.png" alt="NumPy" width="40" height="40"/> </a> 
+    <a href="https://numpy.org/" target="_blank"> <img src="icons/numpy.png" alt="NumPy" width="100" height="40"/> </a> 
 </p>
 
 <h3 align="left">Tools:</h3>
