@@ -51,7 +51,7 @@
 
 ![counter](https://ennr0orc4sd53jn.m.pipedream.net)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=irinamaria)
+![Irina's Github stats](https://github-readme-stats.vercel.app/api?username=irinamaria&show_icons=true&theme=tokyonight)
 
 
 <!--
